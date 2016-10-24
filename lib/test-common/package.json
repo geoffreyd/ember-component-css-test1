@@ -1,0 +1,16 @@
+{
+  "name": "test-common",
+  "keywords": [
+    "ember-addon"
+  ],
+  "dependencies": {
+    "bourbon": "^4.2.7",
+    "bourbon-neat": "^1.8.0",
+    "babel-plugin-htmlbars-inline-precompile": "^0.1.0",
+    "ember-cli-babel": "^5.1.6",
+    "ember-cli-htmlbars": "^1.0.3",
+    "ember-cli-htmlbars-inline-precompile": "^0.3.1",
+	  "ember-component-css": "git+https://github.com/webark/ember-component-css.git#use-in-addons",
+    "ember-cli-sass": "^5.4.0"
+  }
+}
